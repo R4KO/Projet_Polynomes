@@ -1,0 +1,10 @@
+
+bin/Debug/
+
+*.o
+
+*.cbp
+
+*.depend
+
+*.layout
